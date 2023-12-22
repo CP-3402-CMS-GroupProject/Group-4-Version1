@@ -1,5 +1,5 @@
 # Group-4
-This agreement sets forth the terms and conditions for a group to collaboratively create a WordPress website:
+This agreement sets forth the terms and conditions for a group to collaboratively create a WordPress website
 
 # Objective:
 The objective of this agreement is to collaboratively design, develop, and launch a WordPress website.

@@ -30,3 +30,17 @@ Group members agree to maintain the confidentiality of any sensitive information
 
 # Dispute Resolution:
 In the event of any disputes or conflicts, the group will strive to resolve them amicably through open communication and mediation.
+
+# Screenshot of Website
+![Screenshot V1](https://github.com/CP-3402-CMS-GroupProject/Group-4-Version1/assets/96897237/eadeda11-e98c-4496-b13a-50040b397565)
+
+# Screenshot of header code
+![Screenshot V1-header](https://github.com/CP-3402-CMS-GroupProject/Group-4-Version1/assets/96897237/bbee1d2b-55db-4acc-9090-25531e4bcd08)
+
+# Screenshot of index code
+![Screenshot V1-Index](https://github.com/CP-3402-CMS-GroupProject/Group-4-Version1/assets/96897237/53077b27-cc18-452e-934e-3a0afcf88ec7)
+
+# Screenshot of footer code
+![Screenshot V1-footer](https://github.com/CP-3402-CMS-GroupProject/Group-4-Version1/assets/96897237/b957572e-f907-49da-8af7-09604be063ed)
+
+
